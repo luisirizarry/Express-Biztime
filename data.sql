@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS biztime;
 
-CREATE DATABASE biztime ;
+CREATE DATABASE biztime;
 
 \c biztime
 
